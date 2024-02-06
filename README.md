@@ -29,7 +29,6 @@ The script will process each pair of consecutive images in the directory, comput
 
 Note
 
-The script expects the input images to be in grayscale.
 Ensure that the images in the directory are named sequentially for accurate pairing (e.g., image1.jpg, image2.jpg, etc.).
 
 License
